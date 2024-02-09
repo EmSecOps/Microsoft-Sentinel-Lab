@@ -1,5 +1,8 @@
 # Azure Sentinel Guide: Mapping Cyber Attacks Worldwide
 
+<a href="https://emmanueldalcanto.tech/azure-sentinel-guide" target="_blank">Azure Sentinel Guide: Mapping Cyber Attacks Worldwide</a>
+
+
 ## Summary
 
 This repository contains scripts and instructions for setting up Azure Sentinel, a cloud-based Security Information and Event Management (SIEM) solution, in conjunction with a deliberately exposed virtual machine configured as a honeypot. The aim is to actively monitor and log cyber-attacks originating from various global IP addresses, with the resulting data visualized on a world map.
